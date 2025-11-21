@@ -1,0 +1,5 @@
+{
+  "name": "AutoClip AI",
+  "description": "An AI-powered assistant that generates browser automation scripts to clip grocery coupons based on screenshots or HTML snippets.",
+  "requestFramePermissions": []
+}
